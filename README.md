@@ -1,15 +1,14 @@
-# React Calculator & To-Do List
+# React Calculator
 
-This project includes a simple calculator and a to-do list built with React.
+This project includes a simple calculator built with React.
 
 ## Live Demo
 
-Check out the live demo: [React Calculator & To-Do List](https://calculator-project-7auiohrzz-eliascsoares-projects.vercel.app/)
+Check out the live demo: [React Calculator](https://calculator-project-7auiohrzz-eliascsoares-projects.vercel.app/)
 
 ## Features
 
 - Calculator with basic arithmetic operations
-- To-Do List with add, toggle, and delete functionality
 
 ## Technologies Used
 
